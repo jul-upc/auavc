@@ -1,0 +1,7 @@
+
+/**:
+  ros__parameters:
+    per_axis_v_max: 0.5
+    pub_freq: 10.0  #
+    x_vel_norm: 0.3
+    serial_port: '/dev/ttyACM0'
